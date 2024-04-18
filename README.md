@@ -18,7 +18,7 @@
 
 <br>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jonathaalopes&show_icons=true)
+
 
 ## Entre em Contato
 
